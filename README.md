@@ -2,7 +2,7 @@
     <a href="https://404-ghost-fv.netlify.app" target="_blank">
       <img src="preview.webp" alt="Project Banner">
     </a>
-  <h3 align="center">Travel Agency</h3>
+  <h3 align="center">Error 404 - Ghost</h3>
 </div>
 
 ## <br /> 📋 <a name="table">Table of Contents</a>
