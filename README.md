@@ -13,9 +13,9 @@
 
 ## <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** 404 page design featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
+**[EN]** Error 404 page design featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
 
-**[FR]** Page 404 mettant en avant une esthétique moderne et minimaliste, réalisée avec HTML, CSS et JavaScript. Agrémentée d'animations fluides grâce à la bibliothèque ScrollReveal.js.
+**[FR]** Page Erreur 404 mettant en avant une esthétique moderne et minimaliste, réalisée avec HTML, CSS et JavaScript. Agrémentée d'animations fluides grâce à la bibliothèque ScrollReveal.js.
 
 ## <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
