@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://404-ghost-fv.netlify.app" target="_blank">
-      <img src="preview.png" alt="Project Banner">
+      <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Error 404 - Ghost</h3>
 </div>
